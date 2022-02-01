@@ -1,6 +1,6 @@
 {
   "name": "shadow-verify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "verify Linux shadow password hashes",
   "type": "module",
   "exports": "./shadow-verify.js",
